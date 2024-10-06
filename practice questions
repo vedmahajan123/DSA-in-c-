@@ -36,6 +36,3 @@ Use runner to check the nodes after 3. When runner gets to the second 3, it’s 
 Now, move current to 5 and repeat the process, checking the remaining nodes for duplicates.
 By the end, you will have removed all duplicates, just like in the first method:
 [3] -> [5] -> [7] -> [9]
-
-
-Q3] 
